@@ -1,58 +1,61 @@
+{
+  "items": [
+    {
+      "id": "id",
+      "name": "RAMA WORKS® Mats",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/lake_600x.png?v=1660743393",
+      "price": "€ 30",
+      "date": "18.04.2021"
+    },
+    {
+      "id": 2,
+      "name": "Group-Buy Rose60 - Extras",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/rose60_.5_600x.png?v=1660639840",
+      "price": "€ 18",
+      "date": "20.07.2022"
+    },
+    {
+      "id": 3,
+      "name": "Group-Buy Rose60",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/91qZH7A_600x.png?v=1660638405",
+      "price": "€ 235",
+      "date": "19.03.2020"
+    },
+    {
+      "id": 4,
+      "name": "Group-Buy DMK Minty Fresh",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/8bitdeepblue_600x.png?v=1660634657",
+      "price": "€ 26",
+      "date": "18.05.2022"
+    },
+    {
+      "id": 5,
+      "name": "DUROCK Screw-in Stabilizer V2",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/Hcd394f34ab53418aa87b89e0be016cc30-removebg_600x.png?v=1616702779",
+      "price": "€ 5",
+      "date": "31.07.2022"
+    },
+    {
+      "id": 6,
+      "name": "Krytox GPL 205 Grade 0 - Tube",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/205-removebg_600x.png?v=1611690961",
+      "price": "€ 13,99",
+      "date": "10.03.2020"
+    },
+    {
+      "id": 7,
+      "name": "Krytox GPL 205 Grade 0",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/krytox_0d7de048-ddcc-4211-8a2e-e51fe645d039_600x.png?v=1656574619",
+      "price": "€ 13,99",
+      "date": "17.04.2019"
+    },
+    {
+      "id": 8,
+      "name": "TX - Switch Films",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/TXBlack-removebg_600x.png?v=1613989542",
+      "price": "€ 6,5",
+      "date": "10.08.2022"
+    }
+  ]
 
-  {
-    "id": "id",
-    "name": "RAMA WORKS® Mats",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/lake_600x.png?v=1660743393",
-    "price": "€ 30",
-    "date": "18.04.2021"
-  },
-  {
-    "id": 2,
-    "name": "Group-Buy Rose60 - Extras",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/rose60_.5_600x.png?v=1660639840",
-    "price": "€ 18",
-    "date": "20.07.2022"
-  },
-  {
-    "id": 3,
-    "name": "Group-Buy Rose60",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/91qZH7A_600x.png?v=1660638405",
-    "price": "€ 235",
-    "date": "19.03.2020"
-  },
-  {
-    "id": 4,
-    "name": "Group-Buy DMK Minty Fresh",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/8bitdeepblue_600x.png?v=1660634657",
-    "price": "€ 26",
-    "date": "18.05.2022"
-  },
-  {
-    "id": 5,
-    "name": "DUROCK Screw-in Stabilizer V2",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/Hcd394f34ab53418aa87b89e0be016cc30-removebg_600x.png?v=1616702779",
-    "price": "€ 5",
-    "date": "31.07.2022"
-  },
-  {
-    "id": 6,
-    "name": "Krytox GPL 205 Grade 0 - Tube",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/205-removebg_600x.png?v=1611690961",
-    "price": "€ 13,99",
-    "date": "10.03.2020"
-  },
-  {
-    "id": 7,
-    "name": "Krytox GPL 205 Grade 0",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/krytox_0d7de048-ddcc-4211-8a2e-e51fe645d039_600x.png?v=1656574619",
-    "price": "€ 13,99",
-    "date": "17.04.2019"
-  },
-  {
-    "id": 8,
-    "name": "TX - Switch Films",
-    "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/TXBlack-removebg_600x.png?v=1613989542",
-    "price": "€ 6,5",
-    "date": "10.08.2022"
-  }
-
+}
