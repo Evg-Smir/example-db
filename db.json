@@ -2,7 +2,7 @@
   "category": [
     {
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/collections/thumbnail_scatteredGrid_800x_b28d006b-05d0-4b6a-88f6-46104736445d_750x800_crop_center.jpg?v=1623134320",
-      "title": "switches"
+      "title": "Switches"
     },
     {
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/collections/RF18XSpaceDustRendered_1800x1800_25201802-82e3-40c4-aa90-2080902b195b_750x960_crop_center.png?v=1623134577",
@@ -10,7 +10,7 @@
     },
     {
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/collections/Keyboards_750x960_crop_center.jpg?v=1636639136",
-      "title": "keyboards"
+      "title": "Keyboards"
     },
     {
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/collections/AJWY_1_201907031820995131_1000x.jpg?v=1607596363",
@@ -31,56 +31,144 @@
       "name": "RAMA WORKS® Mats",
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/lake_600x.png?v=1660743393",
       "price": "€ 30",
-      "date": "7.08.2022"
+      "date": "7.08.2022",
+      "category": "deskmats",
+      "availability": true
     },
     {
       "id": 2,
       "name": "Group-Buy Rose60 - Extras",
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/rose60_.5_600x.png?v=1660639840",
       "price": "€ 18",
-      "date": "20.08.2022"
+      "date": "20.08.2022",
+      "category": "merchandise",
+      "availability": true
     },
     {
       "id": 3,
       "name": "Group-Buy Rose60",
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/91qZH7A_600x.png?v=1660638405",
       "price": "€ 235",
-      "date": "19.07.2022"
+      "date": "19.07.2022",
+      "category": "merchandise",
+      "availability": false
     },
     {
       "id": 4,
       "name": "Group-Buy DMK Minty Fresh",
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/8bitdeepblue_600x.png?v=1660634657",
       "price": "€ 26",
-      "date": "18.08.2022"
+      "date": "18.08.2022",
+      "category": "merchandise",
+      "availability": true
     },
     {
       "id": 5,
       "name": "DUROCK Screw-in Stabilizer V2",
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/Hcd394f34ab53418aa87b89e0be016cc30-removebg_600x.png?v=1616702779",
       "price": "€ 5",
-      "date": "31.04.2022"
+      "date": "31.04.2022",
+      "category": "merchandise",
+      "availability": true
     },
     {
       "id": 6,
-      "name": "Krytox GPL 205 Grade 0 - Tube",
-      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/205-removebg_600x.png?v=1611690961",
-      "price": "€ 13,99",
-      "date": "10.05.2022"
+      "name": "60% TOFU CASE BY KBDFANS",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/Tofu_Black_60-removebg_1800x1800.png?v=1611693075",
+      "price": "€ 88",
+      "date": "10.05.2022",
+      "category": "keyboards",
+      "availability": true
     },
     {
       "id": 7,
-      "name": "Krytox GPL 205 Grade 0",
-      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/krytox_0d7de048-ddcc-4211-8a2e-e51fe645d039_600x.png?v=1656574619",
-      "price": "€ 13,99",
-      "date": "17.06.2022"
+      "name": "GROUP-BUY - FOUNDATION: CHASSIS",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/DSC06524-2_800x.jpg?v=1655842999",
+      "price": "€ 339,99",
+      "date": "17.06.2022",
+      "category": "keyboards",
+      "availability": true
     },
     {
       "id": 8,
       "name": "TX - Switch Films",
       "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/TXBlack-removebg_600x.png?v=1613989542",
       "price": "€ 6,5",
-      "date": "10.04.2022"
-    }
+      "date": "10.04.2021",
+      "category": "merchandise",
+      "availability": true
+    },
+    {
+      "id": 9,
+      "name": "IRENE SWITCH / 10PCS",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/IreneLinear_2x-removebg_800x.png?v=1666866227",
+      "price": "€ 7,79",
+      "date": "13.03.2022",
+      "category": "switches",
+      "availability": true
+    },
+    {
+      "id": 10,
+      "name": "GLORIOUS LYNX SWITCHES / 36PCS",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/glorious_gaming_lynx_switches_1_1728x_46553394-9163-498d-9d1d-0e3f304ab49e_800x.png?v=1631872556",
+      "price": "€ 5,79",
+      "date": "22.10.2022",
+      "category": "switches",
+      "availability": true
+    },
+    {
+      "id": 11,
+      "name": "NOVELKEYS CREAM SWITCHES / 10PCS",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/Kailh-Creme-Mechanische-Tastatur-Schalter-liner-hangfeeling-MX-schalter-5pin.jpg_q50__1_-removebg_800x.png?v=1613510289",
+      "price": "€ 6,60",
+      "date": "13.11.2022",
+      "category": "switches",
+      "availability": false
+    },
+    {
+      "id": 12,
+      "name": "CHERRY MX RED / 10PCS",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/CHERRY_MX1A-L1N_01_800x.png?v=1613506485",
+      "price": "€ 4,50",
+      "date": "10.07.2022",
+      "category": "switches",
+      "availability": false
+    },
+    {
+      "id": 13,
+      "name": "PBTFANS DEEP SEA PREDATOR",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/00DeepSeaPredator_800x.jpg?v=1652980638",
+      "price": "€ 109,99",
+      "date": "20.02.2022",
+      "category": "keycaps",
+      "availability": true
+    },
+    {
+      "id": 14,
+      "name": "EPBT 9009 KEYCAP SET",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/Unbenannt_72942f1b-69c6-4636-a60f-871cf52162c9_800x.png?v=1643466234",
+      "price": "€ 119",
+      "date": "16.06.2022",
+      "category": "keycaps",
+      "availability": false
+    },
+    {
+      "id": 15,
+      "name": "DCS SOLARIZED DARK",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/HBCP_1_800x.png?v=1636568523",
+      "price": "€ 119",
+      "date": "24.10.2022",
+      "category": "keycaps",
+      "availability": true
+    },
+    {
+      "id": 16,
+      "name": "EPBT KEYCAPS SET - MIAMI NIGHT STYLE\n",
+      "image": "https://cdn.shopify.com/s/files/1/0295/3245/4956/products/EPBTABSDOubleSHotkeycapsset-KEYGEM1-removebg_1_800x.png?v=1614206732",
+      "price": "€ 85",
+      "date": "22.08.2022",
+      "category": "keycaps",
+      "availability": false
+    },
   ]
 }
